@@ -1,0 +1,13 @@
+{
+  "name": "free-wand-lp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FREE WAND — TGS 2026 出展作品の紹介ページ（日本語 / English）",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node build.mjs && node --run serve",
+    "serve": "node serve.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

@@ -1,0 +1,247 @@
+{
+  "school": "さいたまIT・WEB専門学校",
+  "show": "TOKYO GAME SHOW 2026",
+  "title": "FREE WAND",
+  "subtitle": "Draw the grimoire in the air.",
+  "lead": "Pick up the wand and you are a magician.\nDraw one of the nine spells written in the grimoire, and the world in the mirror catches fire, floods, and is swept through by wind.",
+  "cta": "Open the grimoire",
+  "imprint": [
+    {
+      "k": "EXHIBITOR",
+      "v": "さいたまIT・WEB専門学校"
+    },
+    {
+      "k": "BOOTH",
+      "v": "Hall 1, 01-N59"
+    },
+    {
+      "k": "CORNER",
+      "v": "Game Academy Corner"
+    },
+    {
+      "k": "DATES",
+      "v": "19 – 21 September (public days)"
+    },
+    {
+      "k": "PLAY",
+      "v": "About two minutes each"
+    }
+  ],
+  "shiftNote": "* The demo is not running at every hour of the day.",
+  "c1n": "CHAPTER I",
+  "c1": "In the mirror, the world lets magic through",
+  "c1cap": "O",
+  "c1lead": "ne large mirror stands at the booth. What it shows is not another world — it is the very place you are standing in. The difference is that in there, magic has somewhere to go. And only the person holding the wand can open that road.",
+  "c1items": [
+    {
+      "n": "I",
+      "t": "One wand",
+      "b": "There is only one wand at the booth. When someone sets it down, the next person picks it up. While you hold it, you are the only magician in the room."
+    },
+    {
+      "n": "II",
+      "t": "Nine in the book",
+      "b": "The spells are written in the grimoire: three for fire, three for water, three for wind. Open a page, learn the shape, and draw that shape in the air."
+    },
+    {
+      "n": "III",
+      "t": "The mirror answers",
+      "b": "A spell you managed to draw is always answered. What burns is the reality on screen itself — no background is ever swapped in for another world."
+    }
+  ],
+  "noteLabel": "NOTE",
+  "c1note": "What is free is how you stand and how you draw. The wand knows its own movement, so there is no mark on the floor to stand on. Stand where you like, face where you like, draw at any size. The grimoire fixes the shape, and nothing else.",
+  "c2n": "CHAPTER II",
+  "c2": "The nine spells",
+  "c2lead": "Three for fire, three for water, three for wind. Every mark is drawn in a single stroke. Neither size nor tilt is ever asked of you — only the shape is written here.",
+  "fire": {
+    "name": "Fire",
+    "latin": "HI",
+    "alt": "The fire emblem",
+    "read": "The marks of fire all have corners. Drawn in one breath, the arrow turns back sharply at its tip.",
+    "items": [
+      {
+        "name": "Sparks",
+        "body": "One arrow, straight up. Embers lift away trailing tails of fire",
+        "img": "/_blob/115a1432cf7cff89076493c7550e442b",
+        "alt": "The sparks glyph"
+      },
+      {
+        "name": "Pillar",
+        "body": "An inverted mark beneath the arrow. A tongue of flame climbs, wavering",
+        "img": "/_blob/8ddc328363d898022c1464f3a2ca496d",
+        "alt": "The pillar glyph"
+      },
+      {
+        "name": "Vortex",
+        "body": "A great triangle laid over the mark. Three flames spiral as they rise",
+        "img": "/_blob/16e1d9a9392a583d74bc57c95b84e6a4",
+        "alt": "The vortex glyph"
+      }
+    ]
+  },
+  "water": {
+    "name": "Water",
+    "latin": "MIZU",
+    "alt": "The water emblem",
+    "read": "The marks of water have no corners. However the stroke bends is how the water will behave.",
+    "items": [
+      {
+        "name": "Droplet",
+        "body": "Close the line. From the point where it lands, a ring of spray opens out",
+        "img": "/_blob/79df393ad83811a67660438bf4f9273f",
+        "alt": "The droplet glyph"
+      },
+      {
+        "name": "Wave",
+        "body": "Repeat the same sway. Water runs left and right, and floods the floor",
+        "img": "/_blob/bdcaa0d19c9447f8cd209e5f3e5bdfe6",
+        "alt": "The wave glyph"
+      },
+      {
+        "name": "Whirl",
+        "body": "Wind inward from the outside. Arms take hold of the image and drag it under",
+        "img": "/_blob/4c7036fd44966e371384b2da2c3f0652",
+        "alt": "The whirl glyph"
+      }
+    ]
+  },
+  "wind": {
+    "name": "Wind",
+    "latin": "KAZE",
+    "alt": "The wind emblem",
+    "read": "The marks of wind are lines that keep turning. Wind does not go where you drew it; it goes to whoever is standing there.",
+    "items": [
+      {
+        "name": "Slash",
+        "body": "One open arc. It winds around the person, then unwinds and cuts",
+        "img": "/_blob/464a0daa5955d875c87610b710859445",
+        "alt": "The slash glyph"
+      },
+      {
+        "name": "Updraft",
+        "body": "Gather low, spring up. It rises from the feet and carries the person with it",
+        "img": "/_blob/ff9909527dedde6cddd184bbb2a4fa38",
+        "alt": "The updraft glyph"
+      },
+      {
+        "name": "Ring",
+        "body": "Cross the line and bring it back. A ring lies flat and keeps turning — the wind that stays longest",
+        "img": "/_blob/a8222eb754a2fc85c563654c5d917c49",
+        "alt": "The ring glyph"
+      }
+    ]
+  },
+  "c3n": "CHAPTER III",
+  "c3": "The rite",
+  "c3lead": "Once you know the shape, only four movements remain. Nothing is posted at the booth: the tremble of the wand and the colour of the light tell you what comes next.",
+  "steps": [
+    {
+      "n": "I",
+      "t": "Draw a circle",
+      "b": "Turn a slow circle with the tip. Power begins to gather",
+      "img": "/_blob/81b41c84070e771745a4a2a144221432",
+      "alt": "Drawing a circle with the wand"
+    },
+    {
+      "n": "II",
+      "t": "Wait for the tremble",
+      "b": "When the wand trembles, you are full",
+      "img": "/_blob/c4206c1708418d7b367b34828aef3ce1",
+      "alt": "The wand trembling"
+    },
+    {
+      "n": "III",
+      "t": "Draw the spell",
+      "b": "The mark you learned, straight into the air",
+      "img": "/_blob/dd2d78ce367576e63d6eb84d18aed76f",
+      "alt": "Drawing the spell"
+    },
+    {
+      "n": "IV",
+      "t": "Swing it down",
+      "b": "Bring it down when you are done. The mark is let go",
+      "img": "/_blob/6b8b68cb452c701100e035680d32e884",
+      "alt": "Swinging the wand down"
+    }
+  ],
+  "c3note": "The mark is drawn into the light at the foot of the screen, and leaves from there for the world. The magic comes out where the light is, not where you drew. To start again, lower the wand along your body.",
+  "c3quote": "Not one word appears during the rite. No score, no gauge, no READY. The tremble of the wand and the colour of the light are the only things that tell you where you are.",
+  "c4n": "CHAPTER IV",
+  "c4": "How the mirror is made",
+  "c4lead": "All the wand says is how it moved. What happens next is always decided on the mirror’s side.",
+  "figLabel": "FIG. 1",
+  "figCap": "Between the wand and the mirror",
+  "dg": {
+    "wand": "Wand",
+    "wandStack": "iOS / SWIFT / ARKIT",
+    "wandA": "Sends how it moved",
+    "wandB": "Answers in light and tremble",
+    "disp": "Display",
+    "dispStack": "PYTHON / MODERNGL / OPENCV",
+    "dispA": "Reads the shape drawn",
+    "dispB": "Decides what happens",
+    "world": "The world in the mirror",
+    "worldStack": "CAMERA + GLSL",
+    "worldA": "The reality on camera,",
+    "worldB": "burning, flooding, blown through",
+    "up": "movement",
+    "down": "light and tremble",
+    "out": "magic"
+  },
+  "c4items": [
+    {
+      "n": "I",
+      "t": "The wand uses no camera",
+      "b": "The wand knows where it is from its own movement. Neither the lighting of the hall nor where you stand can throw it off — which is why there is no mark taped to the floor."
+    },
+    {
+      "n": "II",
+      "t": "Tuned on site",
+      "b": "The size of the flame and the speed of the wind can be changed while it runs, over and over. How it looks is only settled once we are in the hall."
+    },
+    {
+      "n": "III",
+      "t": "Tested without a wand",
+      "b": "Feed in a stroke recorded once, and the same judgement runs with no wand in the room. The nine marks were settled by redrawing them a few hundred times that way."
+    }
+  ],
+  "c5n": "CORRESPONDENCE",
+  "c5": "Get in touch",
+  "c5lead": "Press enquiries, exhibition proposals and technical questions are all welcome. We answer within a few days.",
+  "fName": "Name",
+  "fMail": "Email",
+  "fBody": "Message",
+  "fBodyPh": "Press enquiry, a joint exhibit, a question about the build…",
+  "fSend": "Send",
+  "orMail": "Or write to us directly",
+  "colophonTitle": "COLOPHON",
+  "makerLabel": "MADE BY",
+  "maker": "l4na",
+  "makerLinks": [
+    {
+      "label": "l4na.com",
+      "href": "https://www.l4na.com"
+    },
+    {
+      "label": "x.com/l4na_7",
+      "href": "https://x.com/l4na_7"
+    },
+    {
+      "label": "github.com/l4na-git",
+      "href": "https://github.com/l4na-git"
+    }
+  ],
+  "copyright": "© 2026 l4na",
+  "footerNote": "Shown at the Game Academy Corner, Tokyo Game Show 2026",
+  "pageTitle": "FREE WAND — Draw the grimoire in the air | Tokyo Game Show 2026",
+  "description": "Pick up the wand and you are a magician. Draw one of nine spells from the grimoire in the air, and the world in the mirror catches fire, floods, and is swept through by wind. Shown at the Game Academy Corner, Tokyo Game Show 2026 (Hall 1, 01-N59).",
+  "langName": "English",
+  "otherLangName": "日本語",
+  "otherHref": "/",
+  "skip": "Skip to content",
+  "mail": "contact@l4na.com",
+  "formOk": "Thank you. We will be in touch.",
+  "formErr": "Could not send. Please write to contact@l4na.com instead.",
+  "formSending": "Sending…"
+}
